@@ -44,7 +44,7 @@ const Alumni = () => {
   // REPLACE: Update with actual alumni data
   const phdAlumni: AlumniMember[] = [
     {
-      name: "Dr. A. Kumar",
+      name: "Dr. A. ff,jugfigugkuku",
       degree: "PhD",
       year: "2023",
       currentPosition: "Postdoctoral Researcher, ETH Zurich",
